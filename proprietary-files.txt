@@ -1,3 +1,5 @@
+# Proprietary files - from Samsung package version G980FXXS5BTJ4, unless pinned
+
 ### CAMERA
 system/lib/libcamerahardwareinterface.so
 # Copied by vendor_init which needs read access
